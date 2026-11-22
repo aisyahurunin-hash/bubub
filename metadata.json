@@ -1,0 +1,6 @@
+{
+  "name": "Tali Cinta: Campus & Harbor",
+  "description": "Game web 2D Co-op Platformer pixel art bertema pasangan dengan mekanik Tali Cinta, Ruang Ganti Baju (Wardrobe), dan 10 level progresif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
